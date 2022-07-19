@@ -1,0 +1,28 @@
+
+
+.header, #display-number{
+    width: fit-content;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    font-size: 50px;
+    
+}
+#display-number{
+    color: green;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    gap: 3rem;
+    align-items: center;
+
+}
+button{
+    padding: 30px;
+    border-radius: 100px;
+}
+button:hover{
+    background-color: aqua;
+}
+
